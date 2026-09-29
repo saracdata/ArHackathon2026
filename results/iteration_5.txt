@@ -73,3 +73,25 @@ Average delivery time: 0.00 time steps
 Total time steps: 200
 
 Run finished: Tue Sep 29 09:24:47 UTC 2026
+
+Summary:
+Running: test_cases/level1/test_case_1.json
+Score: 0.0
+Delivered 0 out of 1 pods (0.00%)
+Running: test_cases/level1/test_case_2.json
+Score: 0.0
+Delivered 0 out of 3 pods (0.00%)
+Running: test_cases/level2/test_case_3.json
+Score: 0.0
+Delivered 0 out of 2 pods (0.00%)
+Running: test_cases/level2/test_case_4.json
+Score: 0.0
+Delivered 0 out of 6 pods (0.00%)
+Running: test_cases/level3/test_case_5.json
+Score: 0.0
+Delivered 0 out of 4 pods (0.00%)
+Running: test_cases/level3/test_case_6.json
+Score: 0.0
+Delivered 0 out of 8 pods (0.00%)
+
+Full output saved to results/run_all.log
